@@ -20,16 +20,16 @@
 Clone the repository
 
 ```bash
-https://github.com/krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project
+https://github.com/Nikhil2893/Kidney_Disease_Classification_Deep_Learning_Project.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n cnncls python=3.8 -y
+conda create -n kidney python=3.8 -y
 ```
 
 ```bash
-conda activate cnncls
+conda activate kidney
 ```
 
 
